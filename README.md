@@ -11,7 +11,7 @@
 
 <p align="center">
 
-OP PASCT to Find Vulnerability or Target. This Tools is `NON DESTRUCTIVE` & `NON INTRUSIVE` to Target. Act As Surface Layer Scanning Tools.
+OP PASCT TOOLS `NON DESTRUCTIVE` & `NON INTRUSIVE` TO TARGET. ACT AS SURFACE LAYER SCAN ETHICAL USE ONLY
 <p align="center">
 PERFORMED & TESTED IN ITSEC 2025 EVENT JAKARTA
 
