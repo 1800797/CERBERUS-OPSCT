@@ -11,7 +11,7 @@
 
 <p align="center">
 
-OP PASC Tools (PASCT) to Find Vulnerability or Target. This Tools is `NON DESTRUCTIVE` & `NON INTRUSIVE` to Target. Act As Surface layer Scanning Tools. ( ETHICAL TOOLS )
+OP PASC Tools (PASCT) to Find Vulnerability or Target. This Tools is `NON DESTRUCTIVE` & `NON INTRUSIVE` to Target. Act As Surface layer Scanning Tools.
 PERFORMED & TESTED IN ITSEC 2025 EVENT JAKARTA
 
 </p>
