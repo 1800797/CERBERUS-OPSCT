@@ -5,24 +5,24 @@
 
 <p align="center">
 
-## Passive aggressive scanning CLI tools for finding vulnerability
+## Active Agressive CLI Scanning Tools for Search Vulnerability 
 
 </p>
 
 <p align="center">
 
-open-source PASC Tools (PASCT) to find vulnerability or target. this tools is `non destructive` and `non intrusive` to target. act as surface layer scanning tools.
+Open-Source PASC Tools (PASCT) to Find Vulnerability or Target. This Tools is `Non Destructive` & `Non Intrusive` to Target. Act As Surface layer Scanning Tools. ( ETHICAL TOOLS )
 
 </p>
 
 
-### Platform Support
+### PLATFORM
 
 * [x] Linux Family
 * [x] MacOS
-* [ ] Windows (might be never happenned lol)
+* [ ] Windows
 
-### Web Application Scanner
+### WEB APP SCANNER
 
 * [ ] Act as Human as Possible
 * [ ] Page URL (Mapper/Follower)
@@ -34,12 +34,12 @@ open-source PASC Tools (PASCT) to find vulnerability or target. this tools is `n
 * [ ] Output Mind Map Result
 * [ ] Output JSON Result
 * [ ] NMAP
-* [ ] Laravel buster
-* [ ] React Scanner
-* [ ] Jsp Scanner
+* [ ] LRVL Buster
+* [ ] RCT Scanner
+* [ ] JSP Scanner
 * [ ] ASP Scanner
 
-### Local Network Scanner
+### LOCAL NETWORK SCANNER
 
 * [ ] ARP Spoofing
 * [ ] Local Device Burst Fire
