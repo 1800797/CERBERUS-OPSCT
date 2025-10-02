@@ -11,14 +11,15 @@
 
 <p align="center">
 
-Open-Source PASC Tools (PASCT) to Find Vulnerability or Target. This Tools is `Non Destructive` & `Non Intrusive` to Target. Act As Surface layer Scanning Tools. ( ETHICAL TOOLS )
+OP PASC Tools (PASCT) to Find Vulnerability or Target. This Tools is `NON DESTRUCTIVE` & `NON INTRUSIVE` to Target. Act As Surface layer Scanning Tools. ( ETHICAL TOOLS )
+PERFORMED & TESTED IN ITSEC 2025 EVENT JAKARTA
 
 </p>
 
 
 ### PLATFORM
 
-* [x] Linux Family
+* [x] Linux
 * [x] MacOS
 * [ ] Windows
 
@@ -43,5 +44,5 @@ Open-Source PASC Tools (PASCT) to Find Vulnerability or Target. This Tools is `N
 
 * [ ] ARP Spoofing
 * [ ] Local Device Burst Fire
-* [ ] Flashbang
+* [ ] FB
 
