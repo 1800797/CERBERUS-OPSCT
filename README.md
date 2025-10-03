@@ -13,7 +13,10 @@
 
 OP PASCT TOOLS `NON DESTRUCTIVE` & `NON INTRUSIVE` TO TARGET. ACT AS SURFACE LAYER SCAN ETHICAL USE ONLY
 <p align="center">
-PERFORMED & TESTED IN ITSEC 2025 EVENT JAKARTA
+
+<p align="center">
+  PERFORMED & TESTED IN <a href="https://itsecsummit.events/" target="_blank">ITSEC 2025 EVENT JAKARTA</a>
+</p>
 
 </p>
 
