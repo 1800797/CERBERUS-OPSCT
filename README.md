@@ -15,7 +15,7 @@ OP PASCT TOOLS `NON DESTRUCTIVE` & `NON INTRUSIVE` TO TARGET. ACT AS SURFACE LAY
 <p align="center">
 
 <p align="center">
-  PERFORMED & TESTED IN <a href="https://itsecsummit.events/" target="_blank">ITSEC 2025 EVENT JAKARTA</a>
+  PERFORMED & TESTED IN <a href="https://itsecsummit.events/" target="_blank">ITSEC</a> 2025 EVENT JAKARTA
 </p>
 
 </p>
