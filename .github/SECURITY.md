@@ -1,31 +1,48 @@
-# Security Policy
+# SECURITY POLICY
 
-## Supported Versions
-We release security updates only for the following versions:
+## SUPPORTED VERSIONS
+THE FOLLOWING TABLE LISTS THE VERSIONS OF THIS PROJECT THAT ARE CURRENTLY SUPPORTED WITH SECURITY UPDATES:
 
-| Version | Supported |
-| ------- | --------- |
-| 1.x.x   | ✅ Supported |
-| < 1.0   | ❌ Not supported |
+| VERSION | SUPPORTED |
+| ------- | ---------- |
+| 1.X.X   | ✅ SUPPORTED |
+| < 1.0   | ❌ NOT SUPPORTED |
 
-## Reporting a Vulnerability
-Please **do not open a public issue** for security vulnerabilities.
+## REPORTING A VULNERABILITY
+IF YOU DISCOVER A SECURITY VULNERABILITY, **DO NOT OPEN A PUBLIC ISSUE OR PULL REQUEST.**
 
-Contact us at:  
-- Email: [xiao.bytedance@proton.me](mailto:xiao.bytedance@proton.me)
+INSTEAD, PLEASE REPORT IT RESPONSIBLY THROUGH THE FOLLOWING CHANNEL:
 
-If you prefer encrypted reports, use our PGP key: `0xYOURKEYHERE` (optional).
+- EMAIL: [XIAO](MAILTO:xiao.bytedance@proton.me)  
+- (OPTIONAL) ENCRYPTED REPORTS CAN BE SENT USING OUR PGP KEY: `0XYOURKEYHERE` DISCUSSION
 
-## What to include in your report
-- Affected version & component  
-- Steps to reproduce (minimal reproducible example)  
-- Impact / expected severity  
-- PoC or screenshots (if possible)
+## REQUIRED INFORMATION
+WHEN REPORTING A VULNERABILITY, PLEASE INCLUDE THE FOLLOWING DETAILS:
 
-## Our response process
-- We will acknowledge receipt within **72 hours**.  
-- We will work with you to triage, fix, and coordinate disclosure.  
-- We aim to publish a fix and advisory within a reasonable timeframe depending on severity.
+- AFFECTED VERSION AND COMPONENT  
+- DESCRIPTION OF THE VULNERABILITY  
+- STEPS TO REPRODUCE (MINIMAL REPRODUCIBLE EXAMPLE IF POSSIBLE)  
+- POTENTIAL IMPACT OR SEVERITY  
+- PROOF-OF-CONCEPT CODE, LOGS, OR SCREENSHOTS (IF AVAILABLE)  
 
-## Credit
-We appreciate responsible disclosure. If you want credit, state how you'd like to be acknowledged.
+## RESPONSE PROCESS
+- ACKNOWLEDGEMENT OF YOUR REPORT WITHIN **72 HOURS**  
+- INITIAL ASSESSMENT AND TRIAGE WITHIN **7 DAYS**  
+- DEVELOPMENT AND VALIDATION OF A FIX  
+- COORDINATION OF RESPONSIBLE DISCLOSURE  
+- PUBLIC SECURITY ADVISORY RELEASED AFTER FIX IS AVAILABLE  
+
+## DISCLOSURE POLICY
+WE STRONGLY ENCOURAGE **RESPONSIBLE DISCLOSURE**.  
+WE REQUEST THAT YOU DO NOT PUBLICLY DISCLOSE THE VULNERABILITY UNTIL A FIX HAS BEEN DEVELOPED AND DEPLOYED.  
+
+CREDIT WILL BE GIVEN TO REPORTERS WHO FOLLOW THIS POLICY AND WISH TO BE ACKNOWLEDGED.  
+
+## CONTACT
+FOR ALL SECURITY-RELATED MATTERS, PLEASE CONTACT:
+
+**SECURITY TEAM**  
+EMAIL: [NUSAETIKA](MAILTO:div.nse@cdef.cn)  
+PGP KEY: `0XYOURKEYHERE` (OPTIONAL)  
+
+THANK YOU FOR HELPING US KEEP THIS PROJECT SAFE AND SECURE.
